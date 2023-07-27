@@ -1,6 +1,7 @@
 ### Stay hungry, stay foolish
 
-My PGP public key:
+#### 📫 How to reach me
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -15,6 +16,10 @@ o5qAAAoJEB4AXCe1+OHxc+gA/R6VRrJp7QrDTyMOW4riQXHr9oS9B+WvbDx/VajF
 FLwyAP9gbU6exDKu5qgZGopDnno+bjpYU25ikAfAhejQ0ZteBQ==
 =FuvO
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+```
+age1rz7rp4pf7c67ccrukawnfyyh52x97m8faxzkcdw7te435rp893tq858lmv
 ```
 
 <!--
