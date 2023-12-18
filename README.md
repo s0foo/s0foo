@@ -3,10 +3,6 @@
 #### 📫 How to reach me
 
 ```
-@s0foo@matrix.org
-```
-
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZMJVxBYJKwYBBAHaRw8BAQdA21NNfPthsgK6M0Nva0kB49H4GioVDtQR3CVH
