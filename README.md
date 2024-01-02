@@ -1,3 +1,4 @@
+<!--
 ### Stay hungry, stay foolish
 
 #### 📫 How to reach me
@@ -22,7 +23,6 @@ FLwyAP9gbU6exDKu5qgZGopDnno+bjpYU25ikAfAhejQ0ZteBQ==
 age1rz7rp4pf7c67ccrukawnfyyh52x97m8faxzkcdw7te435rp893tq858lmv
 ```
 
-<!--
 **s0foo/s0foo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
